@@ -63,7 +63,7 @@
 
   4. ==**git diff** readme.txt==  查看文件内容
 
-     ![git diff readme.txt](../../../../../Typora/Typora Notes/assets/笔记上传GitHub/gitdiffreadme.txt.png)
+     ![git diff readme.txt](../assets/笔记上传GitHub/gitdiffreadme.txt.png)
 
   5. 把修改的文件提交，即步骤1和步骤2
   
